@@ -1,0 +1,14 @@
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\SteamMarketPlaceDomain.dll.config
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\SteamMarketPlaceDomain.dll
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\SteamMarketPlaceDomain.pdb
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\CsQuery.dll
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\EntityFramework.dll
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\Newtonsoft.Json.dll
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\CsQuery.xml
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\EntityFramework.xml
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\bin\Debug\Newtonsoft.Json.xml
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\obj\Debug\SteamMarketPlaceDomain.csprojResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\obj\Debug\SteamMarketPlaceDomain.dll
+c:\users\евгений\documents\visual studio 2015\Projects\SteamMarketPlace\SteamMarketPlaceDomain\obj\Debug\SteamMarketPlaceDomain.pdb

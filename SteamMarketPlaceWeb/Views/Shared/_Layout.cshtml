@@ -1,0 +1,21 @@
+﻿@using SteamMarketPlaceWeb.Models;
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap  Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @Styles.Render("~/Content/css")   
+</head>
+<body>
+    <div>
+        @{Html.RenderPartial("Form", new UrlAppIViewModel());}
+        <div class="container">
+            <div class="row">
+                @RenderBody()
+            </div>         
+        </div>        
+    </div>
+</body>
+</html>

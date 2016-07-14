@@ -1,0 +1,15 @@
+﻿@model IEnumerable<SteamMarketPlaceDomain.Item>
+
+<div class="col-md-8 col-md-offset-2">
+    <h1 class="text-center">Общая стоимость @Model.Sum(x=>x.Price) $</h1>
+    <table class="table">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><img src="@item.Url_Image" /></td>
+                <td>@item.Name</td>
+                <td>@item.Price $</td>                
+            </tr>
+        }
+    </table>
+</div>
